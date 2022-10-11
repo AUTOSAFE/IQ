@@ -59,8 +59,8 @@ node main
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg
-git clone https://github.com/zeeoneofc/Alphabot-Md.git
-cd Alphabot-Md
+git clone https://github.com/AUTOSAFE/IQ
+cd IQ
 npm install
 node main
 ```
